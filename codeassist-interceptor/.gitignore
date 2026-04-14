@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables (machine-specific)
+.env
+.env.local
+.env.*.local
+
+# SQLite database (local to each machine)
+~/.codeassist/
+.codeassist/
+ir.db
+ir.db-shm
+ir.db-wal
+
+# Watcher logs (if logging to file)
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak

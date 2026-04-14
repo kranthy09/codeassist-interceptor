@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "codeassist-interceptor": {
+      "type": "stdio",
+      "command": "sh",
+      "args": ["./scripts/cai-serve.sh"]
+    }
+  }
+}
